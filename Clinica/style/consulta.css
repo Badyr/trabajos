@@ -1,0 +1,23 @@
+body{
+  padding: 0;
+  margin: 0;
+
+}
+html{
+  background-color: #5cb85c;
+}
+.container-fluid{
+  background-color: #5cb85c;
+}
+h1{
+  text-align: center;
+  background-color: #5cb85c;
+color: #000000;
+}
+input[type='text'],input[type='date'],label[for='enfer'],label[for='sintoma'],label[for='fech']{
+  width: 200px;
+
+}
+.table{
+  text-align: center;
+}
